@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.tenor.com/tjWPZrVtsiYAAAAC/luffy-gear-5.gif" align="right" width="373.5px" height="208.5px">
+<img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
   </div>
 <br>
 <p align="center">Some of my socials<br>
