@@ -3,8 +3,8 @@
   </div>
 <br>
 <p align="center">Some of my socials<br>
-most used sociaw things >~< xoxox</p>
-<p align="center"><a href="https://twitter.com/PoolPartyAkali" target="_blank"><img src="https://img.shields.io/badge/PwoolPwatyAkwali%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://discord.me/Blazze" target="_blank"><img src="https://img.shields.io/badge/CowzyThwighs%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
+most used sociaw things</p>
+<p align="center"><a href="https://twitter.com/PoolPartyAkali" target="_blank"><img src="https://img.shields.io/badge/ssss%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://discord.me/Blazze" target="_blank"><img src="https://img.shields.io/badge/ssss%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
 </div>
 <br>
 <div>
